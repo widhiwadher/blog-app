@@ -1,0 +1,23 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "widhi first blogging app.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.12",
+    "node": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Widhi Wadher",
+  "license": "ISC"
+}
